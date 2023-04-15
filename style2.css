@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body{
+   background-size: cover; 
+   background-position: center;
+}
+a{
+    font-size: 23px;
+    font-weight: bold;
+    width: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgb(209, 148, 57);
+    color: #700909;
+    margin-left: 100px;
+    border: 15px;
+    border-radius: 20px;
+    border-color: blue;
+    
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(87, 87, 214);
+    border-radius: 10px;
+}
